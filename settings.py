@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-# @File    : settings.py
-# @Author  : AaronJny
-# @Time    : 2020/03/13
-# @Desc    :
-
-
 # 内容特征层及loss加权系数
 CONTENT_LAYERS = {'block4_conv2': 0.5, 'block5_conv2': 0.5}
 # 风格特征层及loss加权系数
